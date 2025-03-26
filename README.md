@@ -4,7 +4,7 @@
 - 🔭 Currently working on **React.js and Next.js**  
 - 🌱 Currently learning: **TypeScript, Tailwind CSS**  
 - 💬 Interests: **Web Development, UI/UX, Open Source Projects**  
-- 📫 Contact me: **[Your Email]**  
+- 👯 Contact me: **[Your Email]**  
 - 📝 My Articles: **[Medium Profile](https://medium.com/@kullaniciadi)**  
 
 ---
@@ -31,10 +31,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emineyalman&theme=dark" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emineyalman&layout=compact&langs_count=10&theme=dark" alt="Most Used Languages" />
+</p>
 
 ---
 
-### 📫 Contact Me
+### 👯 Contact Me
 <p align="left">
 <a href="https://linkedin.com/in/kullaniciadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 <a href="https://medium.com/@kullaniciadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/></a>
