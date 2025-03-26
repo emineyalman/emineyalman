@@ -3,7 +3,8 @@
 
 - 🔭 Currently working on **React.js and Next.js**    
 - 💭 Interests: **Web Development, UI/UX, Open Source Projects**  
-- 👯 Contact me: **emine.yalman.357@gmail.com**  
+- 👯 Contact me: **emine.yalman.357@gmail.com**
+- 📄 Know about my experiences **[Linkedn Profile](https://www.linkedin.com/in/emine-y-14b22a152/)**
 - 📝 My Articles: **[Medium Profile](https://medium.com/@kullaniciadi)**  
 
 ---
