@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Emine Yalman</h1>
 <h3 align="center">Frontend Developer | Web Developer</h3>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=oktaydbk54&color=red)   <!-- Kırmızı -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=oktaydbk54&color=green) <!-- Yeşil -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=oktaydbk54&color=yellow) <!-- Sarı -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=emineyalman&color=green) <!-- Yeşil -->
 
 
 - 🔭 Currently working on **React.js and Next.js**    
