@@ -42,8 +42,4 @@
 
 ---
 
-### 👯 Contact Me
-<p align="left">
-<a href="https://linkedin.com/in/kullaniciadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://medium.com/@kullaniciadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/></a>
-</p>
+
